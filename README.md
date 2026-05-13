@@ -1,1 +1,1 @@
-# Cse482Project
+# university-project
